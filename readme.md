@@ -10,9 +10,9 @@ This project is an **ATM-based Bank Management System** that simulates real-worl
 
 ## 👥 Group Details
 
-* **Group Number:**  
-* **Course Name:**  
-* **Instructor:**  
+* **Group Number:** 09  
+* **Course Name:** Database Management System  
+* **Instructor:** Md. Fahmidur Rahman Sakib  
 
 ### 🧑‍🤝‍🧑 Team Members
 
@@ -27,21 +27,23 @@ This project is an **ATM-based Bank Management System** that simulates real-worl
 
 ## 🎯 Objective
 
-The objective of this project is to design and develop a banking system simulation that replicates ATM functionalities. It demonstrates how digital banking transactions work while integrating frontend design, backend logic, and database management.
+The main objective of this project is to develop an ATM-based Bank Management System that simulates real-life banking operations. The system is designed to provide users with a secure and user-friendly platform to perform basic financial transactions digitally. It helps in understanding how banking systems manage user data, process transactions, and maintain account records efficiently.
 
 ---
 
-## ✨ Features
+## ✨ Functionalities Implemented
 
-* ✅ User Registration (Sign Up)
-* ✅ Secure Login System
-* ✅ Balance Checking
-* ✅ Cash Withdrawal
-* ✅ Deposit Money
-* ✅ Fast Cash Option
-* ✅ ATM Interface Simulation
+The system includes the following core functionalities:
 
----
+* ✅ **User Registration (Sign Up):** New users can create an account by providing necessary details.  
+* ✅ **User Login Authentication:** Secure login system to verify user credentials.  
+* ✅ **Balance Inquiry:** Users can check their current account balance.  
+* ✅ **Cash Withdrawal:** Allows users to withdraw money from their account.  
+* ✅ **Deposit Money:** Users can deposit funds into their account.  
+* ✅ **Fast Cash:** Quick withdrawal option with predefined amounts.  
+* ✅ **Transaction Processing:** Updates account balance after every transaction.  
+* ✅ **Database Management:** Stores and manages user data, account details, and transaction history.  
+* ✅ **ATM Interface Simulation:** Provides a simple interface similar to a real ATM system.  
 
 ## 🖼️ Project Preview
 
