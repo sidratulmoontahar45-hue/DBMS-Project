@@ -47,6 +47,10 @@ The system includes the following core functionalities:
 
 ##   Project Preview
 
+## 🎥 Demo Video
+
+🔗 https://youtu.be/p13uJc13Pp4
+
 ### 🔹 UI Screenshots
 
 (Add your screenshots here)
