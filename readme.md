@@ -1,8 +1,8 @@
-# 🏦 ATM Based Bank Management System
+#  ATM Based Bank Management System
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project is an **ATM-based Bank Management System** that simulates real-world banking operations. It allows users to perform essential transactions like withdrawing money, depositing funds, checking balance, and fast cash through a simple and user-friendly interface.
 
@@ -14,7 +14,7 @@ This project is an **ATM-based Bank Management System** that simulates real-worl
 * **Course Name:** Database Management System  
 * **Instructor:** Md. Fahmidur Rahman Sakib  
 
-### 🧑‍🤝‍🧑 Team Members
+###  Team Members
 
 | Name                      | ID          | Contribution                                              |
 | ------------------------- | ----------- | --------------------------------------------------------- |
@@ -25,27 +25,27 @@ This project is an **ATM-based Bank Management System** that simulates real-worl
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this project is to develop an ATM-based Bank Management System that simulates real-life banking operations. The system is designed to provide users with a secure and user-friendly platform to perform basic financial transactions digitally. It helps in understanding how banking systems manage user data, process transactions, and maintain account records efficiently.
 
 ---
 
-## ✨ Functionalities Implemented
+##  Functionalities Implemented
 
 The system includes the following core functionalities:
 
-* ✅ **User Registration (Sign Up):** New users can create an account by providing necessary details.  
-* ✅ **User Login Authentication:** Secure login system to verify user credentials.  
-* ✅ **Balance Inquiry:** Users can check their current account balance.  
-* ✅ **Cash Withdrawal:** Allows users to withdraw money from their account.  
-* ✅ **Deposit Money:** Users can deposit funds into their account.  
-* ✅ **Fast Cash:** Quick withdrawal option with predefined amounts.  
-* ✅ **Transaction Processing:** Updates account balance after every transaction.  
-* ✅ **Database Management:** Stores and manages user data, account details, and transaction history.  
-* ✅ **ATM Interface Simulation:** Provides a simple interface similar to a real ATM system.  
+* 1. **User Registration (Sign Up):** New users can create an account by providing necessary details.  
+* 2. **User Login Authentication:** Secure login system to verify user credentials.  
+* 3. **Balance Inquiry:** Users can check their current account balance.  
+* 4. **Cash Withdrawal:** Allows users to withdraw money from their account.  
+* 5. **Deposit Money:** Users can deposit funds into their account.  
+* 6. **Fast Cash:** Quick withdrawal option with predefined amounts.  
+* 7. **Transaction Processing:** Updates account balance after every transaction.  
+* 8. **Database Management:** Stores and manages user data, account details, and transaction history.  
+* 9. **ATM Interface Simulation:** Provides a simple interface similar to a real ATM system.  
 
-## 🖼️ Project Preview
+##   Project Preview
 
 ### 🔹 UI Screenshots
 
@@ -58,7 +58,7 @@ The system includes the following core functionalities:
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 **Frontend:**  
 User-friendly interface for ATM simulation including login, signup, and transaction screens.
@@ -71,7 +71,7 @@ Stores user data, account information, and transaction records efficiently.
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ```bash
 # Clone the repository
