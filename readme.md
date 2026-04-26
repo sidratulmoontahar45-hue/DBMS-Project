@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="er-diagram" src="https://github.com/user-attachments/assets/c767dc48-14ee-469d-8e7b-993490663dae" /># 🏦 ATM Based Bank Management System
+# 🏦 ATM Based Bank Management System
 
 ---
 
