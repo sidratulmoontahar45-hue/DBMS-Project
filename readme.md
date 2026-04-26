@@ -45,15 +45,13 @@ The system includes the following core functionalities:
 * 8. **Database Management:** Stores and manages user data, account details, and transaction history.  
 * 9. **ATM Interface Simulation:** Provides a simple interface similar to a real ATM system.  
 
-##   Project Preview
+
 
 ## 🎥 Demo Video
 
 🔗 https://youtu.be/p13uJc13Pp4
 
-### 🔹 UI Screenshots
 
-(Add your screenshots here)
 
 ### 🔹 ER Diagram
 
