@@ -1,4 +1,4 @@
-# 🏦 ATM Based Bank Management System
+<img width="1536" height="1024" alt="er-diagram" src="https://github.com/user-attachments/assets/c767dc48-14ee-469d-8e7b-993490663dae" /># 🏦 ATM Based Bank Management System
 
 ---
 
@@ -51,7 +51,8 @@ The objective of this project is to design and develop a banking system simulati
 
 ### 🔹 ER Diagram
 
-![Er diagram](er-diagram.jpeg)
+<img width="1536" height="1024" alt="er-diagram" src="https://github.com/user-attachments/assets/cb0b6a24-2dbd-4ade-88c7-be489ca21e5a" />
+
 
 ---
 
